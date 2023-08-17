@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Exo+2:wght@600&display=swap');
 
 * {
     border: none;
@@ -8,6 +8,7 @@
 
 header{
     background-color: rgb(0, 0, 0);
+    overflow: hidden;
 }
 
 body {
@@ -15,4 +16,53 @@ body {
     font-weight: 400;
     background-color: #ffffff;
     color: rgb(0, 0, 0);
+}
+
+/* heading styles and logo */
+
+h1, h2{
+    font-family: Bebas Neue , sans-serif;
+    letter-spacing: 2px;
+    color: #f7f7f7;
+}
+
+#logo{
+    float: left;
+    font-size: 275%;
+}
+
+/* navigation */
+
+#controls{
+    font-size: 90%;
+    letter-spacing: 4px;
+    float: right;
+    padding-right: 50px;
+}
+
+#controls, #logo {
+    line-height: 75px;
+}
+
+#controls ul{
+    margin-right: 30px;
+    list-style-type: none;
+}
+
+#controls li {
+    float: left;
+    margin-right: 25px;
+  }
+
+#controls a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#controls a:hover{
+    border-bottom: 1px solid #ffffff;
+}
+
+.active{
+    border-bottom: 1px solid #ffffff;
 }
