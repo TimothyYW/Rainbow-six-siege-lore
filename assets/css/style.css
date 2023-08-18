@@ -70,14 +70,14 @@ h1, h2{
 /* hero image */
 
 #hero-outer {
-    height: 600px;
+    height: 900px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
 #hero-image {
-    height: 750px;
+    height: 900px;
     width: 100%;
     background: url("../images/hero-image-first.jpg") no-repeat center center;
     
@@ -98,6 +98,27 @@ h1, h2{
     to {
         transform: scale(1.1);
     }
+}
+
+#cover-text {
+    font-size: 160%;
+    font-family: Bebas neue, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 200px;
+    height: 100px;
+
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 40px;
+
+    background-color: rgba(255, 255, 255, 0.7);
+
+    top: 140px;
+    right: 150px;
+
+    position: absolute;
 }
 
 #hero-image-second {
