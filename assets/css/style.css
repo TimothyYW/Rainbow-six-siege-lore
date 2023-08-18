@@ -75,11 +75,12 @@ h1, h2{
     overflow: hidden;
     position: relative;
 }
-#hero-image {
-    height: 800px;
-    width: 100%;
-    background-image: url(../images/hero-image-first.jpg) no-repeat center center;
 
+#hero-image {
+    height: 750px;
+    width: 100%;
+    background: url("../images/hero-image-first.jpg") no-repeat center center;
+    
     /* animation zoom effect on loading page */
 
     animation-name: hero-zoom;
@@ -102,5 +103,5 @@ h1, h2{
 #hero-image-second {
     height: 800px;
     width: 100%;
-    background-image: url(../images/hero-image-second.jpg) no-repeat center center; 
+    background: url(../images/hero-image-second.jpg) no-repeat center center; 
 }
