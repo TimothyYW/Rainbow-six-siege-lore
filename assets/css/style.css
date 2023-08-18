@@ -76,10 +76,10 @@ h1, h2{
 
     position: relative;
 }
-#hero-image-1{
+#hero-image {
     height: 800px;
     width: 100%;
-    background: url(../images/Hero-Image-1.jpg) no-repeat center center;
+    background-image: url(assets/images/Hero-Image-First.jpg) no-repeat center center;
 
     /* animation zoom effect on loading page */
 
