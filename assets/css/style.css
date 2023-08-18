@@ -69,8 +69,20 @@ h1, h2{
 
 /* hero image */
 
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
 #hero-image{
     height: 800px;
     width: 100%;
     background: url(../images/Hero-Image.jpg) no-repeat center center;
+
+    /* animation zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
