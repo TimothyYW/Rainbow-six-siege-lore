@@ -131,9 +131,11 @@ h1, h2{
 }
 
 #explore-r6 {
+font-family: Bebas Neue , sans-serif;
 color: rgba(0, 0, 0, 0.785);
 position: relative;
 top: 75px;
 }
+
 /* about section for site and game */
 
