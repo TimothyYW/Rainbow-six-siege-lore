@@ -145,3 +145,18 @@ left: 25px;
     height: 500px;
 }
 
+#about-r6 {
+    padding-top: 50px;
+    float: inline-start;
+    width: 100%;
+    background-color: red;
+    height: 150px;
+}
+
+#about-website {
+    padding-top: 50px;
+    float: inline-end;
+    width: 100%;
+    background-color: blue;
+    height: 150px;
+}
