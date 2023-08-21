@@ -25,3 +25,11 @@ https://coolthemestores.com/rainbow-six-siege-wallpaper-hd-new-tab/
 Hero image second:
 
 https://wall.alphacoders.com/by_sub_category.php?id=225751&name=Tom+Clancy%27s+Rainbow+Six%3A+Siege+Wallpapers
+
+ ##Acknowledge 
+
+ All games timelines information gather from source below:
+
+ https://rainbowsix.fandom.com/wiki/Tom_Clancy%27s_Rainbow_Six_Siege
+
+ https://www.youtube.com/watch?v=KYV8lYwteEU&t=286s
