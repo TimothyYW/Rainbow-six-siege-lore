@@ -143,13 +143,13 @@ left: 25px;
 
 #about {
     height: 500px;
+    background-color: #3a3a3a;
 }
 
 #about-r6 {
     padding-top: 50px;
     float: inline-start;
     width: 100%;
-    background-color: red;
     height: 200px;
 }
 
@@ -157,7 +157,6 @@ left: 25px;
     padding-top: 50px;
     float: inline-end;
     width: 100%;
-    background-color: blue;
     height: 200px;
 }
 
@@ -181,6 +180,24 @@ left: 25px;
     background-color: rgb(90, 90, 90);
 }
 
+/* about content styling */
+
+vr {
+    border: solid 4px #3a3a3a;
+}
+#about-heading {
+    text-align: center;
+
+}
+#about-content {
+    font-family: Bebas neue, sans-serif ;
+    color: #ffffff;
+    text-align: center;
+}
+
+/* footer */
+
+
 footer {
     height: 90px;
 }
@@ -199,3 +216,7 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+
+
+
