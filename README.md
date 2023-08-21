@@ -33,3 +33,15 @@ https://wall.alphacoders.com/by_sub_category.php?id=225751&name=Tom+Clancy%27s+R
  https://rainbowsix.fandom.com/wiki/Tom_Clancy%27s_Rainbow_Six_Siege
 
  https://www.youtube.com/watch?v=KYV8lYwteEU&t=286s
+
+ ###Year 1
+
+Season 1
+
+https://www.youtube.com/watch?v=h_rf8K13gow
+
+Season 2
+
+Season 3
+
+Season 4
