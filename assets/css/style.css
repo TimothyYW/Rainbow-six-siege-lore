@@ -195,6 +195,16 @@ vr {
     text-align: center;
 }
 
+#text-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#text-link:hover {
+    color: rgb(90, 90, 90);
+    text-decoration: underline;
+}
+
 /* footer */
 
 
