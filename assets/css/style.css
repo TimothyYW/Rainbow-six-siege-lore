@@ -237,7 +237,25 @@ footer {
     padding: 0;
 }
 
+/* beginning */
+
 #beginning {
-    
+    align-items: center;
+    text-align: center;
+    background-color: #3a3a3a;
+    justify-content: center;
+    width: 80%;
+    min-height: 400px;
+    margin-left: 200px;
+    border-radius: 20px;
 }
 
+#reactivation {
+    text-align: center;
+    font-family: exo 2, sans-serif;
+}
+
+#CTU {
+    font-family: bebas neue, sans-serif;
+    color: #f7f7f7;
+}
