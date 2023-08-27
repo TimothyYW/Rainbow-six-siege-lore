@@ -227,7 +227,17 @@ footer {
     color: #3a3a3a;
 }
 
-/* timeline */
+/* games hero image */
 
+#games {
+    background: url("../images/background-games.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
 
+#beginning {
+    
+}
 
