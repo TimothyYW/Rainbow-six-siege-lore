@@ -16,17 +16,19 @@ Google Fonts
 Gitpod
 Github
 
+## Bugs
+
+During coding for games.html when creating the timelines, I put too many content within which causing it to be lagging, in order to fixed it, I moved all the content into eight seperate html.
+
 ## Credits
 
 Hero image:
 
 https://coolthemestores.com/rainbow-six-siege-wallpaper-hd-new-tab/
 
-Hero image second:
+Hero image second and background games:
 
 https://wall.alphacoders.com/by_sub_category.php?id=225751&name=Tom+Clancy%27s+Rainbow+Six%3A+Siege+Wallpapers
-
-## Acknowledge 
 
  All games timelines information gather from source below:
 
@@ -201,4 +203,8 @@ https://youtu.be/g7Jc9yxr5Lk?si=bd6dgziF0u-B3oiT
 Season 2
 
 https://youtu.be/Unj2rUT_abw?si=wSDl9TiaRjlIOB0G
+
+# Comic link
+
+https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/media
 
