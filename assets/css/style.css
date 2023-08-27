@@ -103,7 +103,7 @@ h1, h2{
 
 #cover-text {
     font-size: 160%;
-    font-family: Bebas neue, sans-serif;
+    font-family: bebas neue, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -132,7 +132,7 @@ h1, h2{
 }
 
 #explore-r6 {
-font-family: Bebas Neue , sans-serif;
+font-family: bebas neue , sans-serif;
 color: rgba(0, 0, 0, 0.785);
 position: relative;
 top: 75px;
@@ -258,4 +258,10 @@ footer {
 #CTU {
     font-family: bebas neue, sans-serif;
     color: #f7f7f7;
+}
+
+/* timelines */
+
+.year {
+    font-family: exo 2, sans-serif;
 }
