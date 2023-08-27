@@ -103,7 +103,7 @@ h1, h2{
 
 #cover-text {
     font-size: 160%;
-    font-family: bebas neue, sans-serif;
+    font-family: Bebas neue, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -132,7 +132,7 @@ h1, h2{
 }
 
 #explore-r6 {
-font-family: bebas neue , sans-serif;
+font-family: Bebas neue , sans-serif;
 color: rgba(0, 0, 0, 0.785);
 position: relative;
 top: 75px;
@@ -237,6 +237,8 @@ footer {
     padding: 0;
 }
 
+/* games.html */
+
 /* beginning */
 
 #beginning {
@@ -263,5 +265,5 @@ footer {
 /* timelines */
 
 .year {
-    font-family: exo 2, sans-serif;
+    font-family: Bebas neue, sans-serif ;
 }
