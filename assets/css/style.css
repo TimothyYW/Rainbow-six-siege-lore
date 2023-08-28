@@ -230,7 +230,7 @@ footer {
 /* games hero image */
 
 #games {
-    background: url("../images/background-games.jpg");
+    background: url("../images/background-games.jpg") no-repeat;
     background-size: cover;
     background-attachment: fixed;
     margin: 0;
