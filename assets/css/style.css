@@ -254,16 +254,47 @@ footer {
 
 #reactivation {
     text-align: center;
-    font-family: exo 2, sans-serif;
+    font-family: Exo 2, sans-serif;
 }
 
 #CTU {
-    font-family: bebas neue, sans-serif;
+    font-family: Bebas neue, sans-serif;
     color: #f7f7f7;
 }
 
 /* timelines */
 
-.year {
-    font-family: Bebas neue, sans-serif ;
+.timelines {
+    width: 90%;
+    height: auto;
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
 }
+
+.timelines ol li {
+    padding: 20px;
+    background-color: #3a3a3a;
+    color: #f7f7f7;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.timelines ol li:last-child {
+    margin-bottom: 20px;
+}
+.year, .replaced, .SI {
+    font-family: Exo 2 , sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.timelines-content p {
+    font-family: Bebas neue , sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 200;
+}
+
