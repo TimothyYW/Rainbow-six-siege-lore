@@ -358,5 +358,33 @@ footer {
 }
 
 #year-five {
-    
+    background: url("../images/year-five-background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+#year-six {
+    background: url("../images/year-six-background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+#year-seven {
+    background: url("../images/year-seven-background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+#year-eight {
+    background: url("../images/year-eight-backgroud.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
 }
