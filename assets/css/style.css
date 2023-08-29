@@ -326,7 +326,7 @@ footer {
 /* background year one to eight */
 
 #year-one {
-    background: url("../images/year-one-background.jpg") no-repeat;
+    background: url("../images/year-one-background.jpg");
     background-size: cover;
     background-attachment: fixed;
     margin: 0;
@@ -334,9 +334,29 @@ footer {
 }
 
 #year-two {
-    background: url("../images/year-two-background.jpg") no-repeat;
+    background: url("../images/year-two-background.jpg");
     background-size: cover;
     background-attachment: fixed;
     margin: 0;
     padding: 0;
+}
+
+#year-three {
+    background: url("../images/year-three-background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+#year-four {
+    background: url("../images/year-four-background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+#year-five {
+    
 }

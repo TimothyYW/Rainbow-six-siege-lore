@@ -36,6 +36,18 @@ https://wall.alphacoders.com/by_sub_category.php?id=225751&name=Tom+Clancy%27s+R
 
  https://www.youtube.com/watch?v=KYV8lYwteEU&t=286s
 
+ year 1 background
+
+ https://www.pcgamer.com/rainbow-6-siege-year-1-operators-price-has-been-dropped-until-next-year/
+
+ year 3 background
+
+ https://wccftech.com/rainbow-six-siege-para-bellum-trailers/
+
+ year 4 background
+
+ https://www.gamerbraves.com/rainbow-six-siege-is-adding-a-singaporean-operator-in-its-year-7-season-3-update/
+
 # Year 1
 
 Season 1
