@@ -325,3 +325,18 @@ footer {
 
 /* background year one to eight */
 
+#year-one {
+    background: url("../images/year-one-background.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+#year-two {
+    background: url("../images/year-two-background.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
