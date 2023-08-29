@@ -250,6 +250,8 @@ footer {
     background-color: #3a3a3a;
     border-radius: 20px;
     margin-bottom: 30px;
+    align-items: center;
+    text-align: center;
 }
 
 #reactivation {
@@ -299,3 +301,24 @@ footer {
     font-weight: 200;
 }
 
+/* quick link style */
+
+.quick-link {
+    color: #f7f7f7;
+    text-decoration: none;
+}
+
+.quick-link:hover {
+    text-decoration: underline;
+}
+
+/* comic */
+
+.comic {
+    color: #f7f7f7;
+    text-decoration: none;
+}
+
+.comic:hover {
+    text-decoration: underline;
+}
