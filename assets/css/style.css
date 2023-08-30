@@ -284,20 +284,15 @@ footer {
 .timelines ol li:last-child {
     margin-bottom: 20px;
 }
-.year, .replaced, .SI {
-    font-family: Exo 2 , sans-serif;
-    font-size: 25px;
-    font-weight: 500;
-    line-height: 30px;
-    margin-bottom: 10px;
-}
 
+.timelines-content ul{
+    list-style: none;
+}
 .timelines-content p {
     font-family: Bebas neue , sans-serif;
     font-size: 16px;
     line-height: 20px;
     font-weight: 200;
-
 }
 
 /* comic */
