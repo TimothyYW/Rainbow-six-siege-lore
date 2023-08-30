@@ -306,3 +306,8 @@ footer {
     text-decoration: underline;
 }
 
+/* video */
+
+.video {
+    width: 90%;
+}
