@@ -297,17 +297,7 @@ footer {
     font-size: 16px;
     line-height: 20px;
     font-weight: 200;
-}
 
-/* quick link style */
-
-.quick-link {
-    color: #f7f7f7;
-    text-decoration: none;
-}
-
-.quick-link:hover {
-    text-decoration: underline;
 }
 
 /* comic */
