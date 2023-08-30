@@ -26,13 +26,13 @@
             <nav>
                 <ul id="controls">
                     <li>
-                        <a href="index.html" class="active">Home</a>
+                        <a href="index.html">Home</a>
                     </li>
                     <li>
                         <a href="games.html">Games</a>
                     </li>
                     <li>
-                        <a href="#">Newsletter</a>
+                        <a href="newsletter.html" class="active">Newsletter</a>
                     </li>
                 </ul>   
             </nav>
@@ -40,47 +40,45 @@
     </header>
     <!--header end-->
     <!--main start-->
-    <main>
-        <!--hero image-->
-        <section id="hero-outer">
-            <div id="hero-image">
-                <div id="cover-text">
-                        <h2>Welcome<h2>
-                        <h3>Sieger and Lore seeker</h3>
+    <main id="newsletter-main">
+        <!--Newsletter description start-->
+        <section id="newsletter-intro">
+            <div id="newsletter">
+                <h1>Wish to know more or keep up with the Rainbow six lore?</h1>
+                    <p>
+                        Rainbow six siege is evolving from mere first person shooter without any lore related, and now it begins to developed the lore,
+                        with currnetly in year eight and Ubisoft planning to developed more the gameplay and the lore. 
+                        Feel free to sign up to follow the update on the gameplay and the lore.
+                    </p>
+            </div>
+        </section>
+        <!--Sign up form start-->
+        <section class="form-section">
+            <form method="POST" action="registration-success.html" class="signup-form">
+                <h2 id="sign-up-heading">Let's get you signed up!</h2>
+                <!--First name input field-->
+                <div class="form-item">
+                <label for="fname">First Name</label>
+                <input id="fname" name="first_name" type="text" required>
                 </div>
-            </div>
+                <!--Last name input field-->
+                <div class="form-item">
+                <label for="lname">Last Name</label>
+                <input id="lname" name="last_name" type="text" required>
+                </div>
+                <!--Email input field-->
+                <div class="form-item">
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email_address" required>
+                </div>
+                
+                <!--Input button-->
+                <div class="form-item">
+                <input class="join-button" type="submit" value="Join the squad">
+                </div>
+            </form>
         </section>
-        <!--hero image second-->
-        <section>
-            <div id="hero-image-second">
-                <h4 id="explore-r6">
-                    Explore the development and lore of Rainbow six siege <button class="btn"><a href="games.html">Explore</a></button>
-                </h4>
-            </div>
-        </section>
-        <section id="about">
-            <div id="about-r6">
-                <h2 id="about-heading">What is Rainbow Six Siege?</h2> 
-                        <p id="about-content">
-                            Rainbow Six Siege is a tactical and elite first person shooter was developed by Ubisoft Montreal and was based on the novel on 3rd August 1998 by Tom clancy title Rainbow Six, 
-                            The game was release in 1 December 2015, where two teams consist of five members compete against each other.
-                            One team play role as attacker and the opposite side as defender with three different modes such as Bomb, Hostage, and Secure Area.
-                            It is available on PC via Uplay or Steam, and on Console such as Xbox and Playstation.
-                            Till this day, Rainbow Six Siege has been developed after eight years and still develop in gameplay and lore. and growing number of players, If you wish to explore more? 
-                            Please click <a href="games.html"><span id="text-link">here!</span></a>
-                        </p>
-            </div>        
-            <div id="about-website">
-                <h2 id="about-heading">What is this website about?</h2>
-                        <p id="about-content">
-                            This website is for entertainemnet and educational purposes for the new players and lore readers.
-                            In this site will be telling the story of Raimbow Six Siege first activation, follow-up the opration
-                            where new operators from other country being added, and where the lore starting to grow. The operations
-                            will be show througth the games page periodicly from Year one season one till the current year and season.
-                            There will be newsletter where the user will be recieveing an update to the lore and the new season coming out.
-                        </p>
-            </div>
-        </section>
+        <!--Sign up form end-->
     </main>
     <!--main end-->
     <!--footer start-->
