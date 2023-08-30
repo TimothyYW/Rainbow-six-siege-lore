@@ -13,7 +13,7 @@ header{
 }
 
 body {
-    font-family: Exo 2 , sans-serif;
+    font-family: "Exo 2" , sans-serif;
     font-weight: 400;
     background-color: #ffffff;
     color: rgb(0, 0, 0);
@@ -22,7 +22,7 @@ body {
 /* heading styles and logo */
 
 h1, h2{
-    font-family: Bebas Neue , sans-serif;
+    font-family: "Bebas Neue" , sans-serif;
     letter-spacing: 2px;
     color: #f7f7f7;
 }
@@ -103,7 +103,7 @@ h1, h2{
 
 #cover-text {
     font-size: 160%;
-    font-family: Bebas neue, sans-serif;
+    font-family: "Bebas neue", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -132,7 +132,7 @@ h1, h2{
 }
 
 #explore-r6 {
-font-family: Bebas neue , sans-serif;
+font-family: "Bebas neue" , sans-serif;
 color: rgba(0, 0, 0, 0.785);
 position: relative;
 top: 75px;
@@ -189,7 +189,7 @@ margin: 0 auto;
 
 }
 #about-content {
-    font-family: Bebas neue, sans-serif ;
+    font-family: "Bebas neue", sans-serif ;
     color: #ffffff;
     text-align: center;
 }
@@ -255,11 +255,11 @@ footer {
 
 #reactivation {
     text-align: center;
-    font-family: Exo 2, sans-serif;
+    font-family: "Exo 2", sans-serif;
 }
 
 #CTU {
-    font-family: Bebas neue, sans-serif;
+    font-family: "Bebas neue", sans-serif;
     color: #f7f7f7;
 }
 
@@ -290,7 +290,7 @@ footer {
     list-style: none;
 }
 .timelines-content p {
-    font-family: Bebas neue , sans-serif;
+    font-family: "Bebas neue", sans-serif;
     font-size: 16px;
     line-height: 20px;
     font-weight: 200;
