@@ -315,4 +315,19 @@ footer {
 
 /* newsletter */
 
+#newsletter-main {
+    background: url("../images/background-newsletter.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 800px;
+}
 
+#newsletter-intro {
+    background-color: #3a3a3a;
+    background-size: cover;
+    align-content: center;
+    text-align: center;
+    height: 115px;
+}
