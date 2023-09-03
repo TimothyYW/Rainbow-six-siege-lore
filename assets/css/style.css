@@ -366,3 +366,8 @@ footer {
     padding: 15px;
     border-radius: 9px;
 }
+
+.join-button:hover {
+    color:#f7f7f779;
+    opacity: 0,8;
+}
