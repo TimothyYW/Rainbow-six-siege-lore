@@ -321,7 +321,7 @@ footer {
     margin: 0 auto;
     padding: 0;
     width: 100%;
-    height: 900px;
+    height: 800px;
 }
 
 #newsletter-intro {
@@ -370,4 +370,20 @@ footer {
 .join-button:hover {
     color:#f7f7f779;
     opacity: 0,8;
+}
+
+/* media quaries for smaller screen sizes */
+
+@media screen and (min-width: 320px) {
+    #newsletter-intro {
+        height: 200px;
+    }
+}
+
+
+@media screen and (min-width: 400px) {
+    #about-r6 {
+        padding-top: 10px;
+        height: 250px;
+    }
 }
