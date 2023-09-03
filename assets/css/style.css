@@ -374,9 +374,24 @@ footer {
 
 /* media quaries for smaller screen sizes */
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 360px) {
+    
+    #cover-text {
+        right: 100px;
+    }
+    #controls li {
+        float: left;
+        margin-right: 23px;
+    }
+    
     #newsletter-intro {
         height: 200px;
+    }
+
+    #about-r6 {
+        padding-top: 15px;
+        width: 100%;
+        height: 209px;
     }
 }
 
