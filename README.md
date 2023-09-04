@@ -8,7 +8,7 @@ The purpose of this site is to entertain and educate the user with Rainbow six s
 
 The color scheme will be using black and white to simplfy and stick with old classic Rainbow six siege color.
 
-##Technologies utilized
+## Technologies utilized
 
 HTML
 CSS
@@ -36,33 +36,6 @@ https://wall.alphacoders.com/by_sub_category.php?id=225751&name=Tom+Clancy%27s+R
 
  https://www.youtube.com/watch?v=KYV8lYwteEU&t=286s
 
- year 1 background
-
- https://www.pcgamer.com/rainbow-6-siege-year-1-operators-price-has-been-dropped-until-next-year/
-
- year 3 background
-
- https://wccftech.com/rainbow-six-siege-para-bellum-trailers/
-
- year 4 background
-
- https://www.gamerbraves.com/rainbow-six-siege-is-adding-a-singaporean-operator-in-its-year-7-season-3-update/
-
- year 5 background
-
- https://m.alza.cz/EN/media/tom-clancys-rainbow-six-siege-year-5-pass-xbox-one-digital-d5780933.htm
-
- year 6 background
-
- https://www.microsoft.com/nn-no/p/tom-clancys-rainbow-six-siege-year-6-operators/9mvrtt9xlpqx?activetab=pivot:overviewtab
-
- year 7 background
-
-https://clutchpoints.com/demon-veil-rainbow-six-siege-year-7-season-1
-
- year 8 background
-
-https://thesportsrush.com/gaming-news-all-changes-coming-rainbow-six-siege-operation-heavy-mettle/
 
 # Year 1
 
