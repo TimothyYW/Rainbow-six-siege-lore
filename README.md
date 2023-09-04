@@ -36,7 +36,6 @@ https://wall.alphacoders.com/by_sub_category.php?id=225751&name=Tom+Clancy%27s+R
 
  https://www.youtube.com/watch?v=KYV8lYwteEU&t=286s
 
-
 # Year 1
 
 Season 1
