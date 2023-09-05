@@ -4,9 +4,13 @@ This website is for entertainment and educational purpose, starting by looking b
 
 ## UX
 
-The purpose of this site is to entertain and educate the user with Rainbow six siege development and lore, this include trailers from the previous update and the comics from the game developer Ubisoft. 
+The purpose of this site is to entertain and educate the user with Rainbow six siege development and lore, this include trailers from the previous update and the comics from the game developer Ubisoft. By utilizing Youtube video embedded on each years and seasons, it will provide the user with entertainment and help the user to understand the lore and the developement.
 
-The color scheme will be using black and white to simplfy and stick with old classic Rainbow six siege color.
+The color scheme will be using black and white to simplfy and stick with old classic Rainbow six siege color. The header will be using the color black and white to make it easier to navigate, while the main section will be using both background pictures and the grey color to keep up with theme. The use of background images as for decoration and to give the looks of the member of rainbow six siege.
+
+### Existing Feature
+
+## Testing
 
 ## Technologies utilized
 
@@ -164,7 +168,7 @@ Season 4
 
 https://youtu.be/-s1SsNSHKlc?si=PJ7Z38NeCG8_jDTX
 
-## Year 7
+# Year 7
 
 Sister in arms
 
