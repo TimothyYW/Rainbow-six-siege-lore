@@ -2,6 +2,49 @@
 
 This website is for entertainment and educational purpose, starting by looking back into where Rainbow six siege first released, the development, and in-depth into the lore. By using different type of media such as image and video to entertain and educate the user about the game history, and future of development. By utilizing newsletter the user will be getting an update on the lore and the development of the game.
 
+# Feature
+
+## Navigation Bar (Index/Homepage)
+Within homepage, featured three navigation bar and logo full responsive ,and It is identical with other page to ensure easy navigation for the user.
+    
+Index html screenshot
+
+## Hero Image First
+
+Once load the user will be greeted with welcome message and one of the background showing some of the operators of rainbow six siege, this hero image was one of the games background picture from the past version of the games,and with this image hopefully may giving the user who played the game before the feeling of nostalgia. 
+
+Hero image first
+
+##  Hero Image Second
+
+Below the first hero image will be waiting for the user a shortcut button to go to the games section to learn of the lore of rainbow six siege with background picture, showing rainbow operators going toe to toe to hype up the user to learn about rainbow.
+
+Hero image second
+
+## About 
+
+about section will be explaining what is rainbow six siege including a quick link again, in case if the user want to learn about the game first before going to the lore of the game, while below will be explaining the purpose of the website.
+
+About section 
+
+## Footer
+
+A quick link for the social medias to allow the user to access the social medias, and it will open a new tab instead of taking away the page.
+
+footer picture
+
+## Games
+
+Within the games section will be showing the lore starting from the reactivation of rainbow to the current seasons. With the Youtube link will be showing the highlight of the seaoson and what is the current stand within the lore. User able to click the video to play the video and it will not play automaticly when opening the page.
+
+games 
+
+## Newsletter
+
+The newsletter allowing the user to sign-up to get an update of the games lore and the feature, with message encouraging that siege continue developing and keep up with the games development. The user required to provide their first and last name with an Email, afterwards there will be message confirmation that their information has been recorded.
+
+Newletter
+
 # UX
 
 The purpose of this site is to entertain and educate the user with Rainbow six siege development and lore, this include trailers from the previous update and the comics from the game developer Ubisoft. By utilizing Youtube video embedded on each years and seasons, it will provide the user with entertainment and help the user to understand the lore and the developement.
@@ -15,9 +58,32 @@ While for the font style for the paragraph using Exo 2 which is simple, but simi
 The color scheme will be using black and white to simplfy and stick with old classic Rainbow six siege color. The header will be using the color black and white to make it easier to navigate, while the main section will be using both background pictures and the grey color to keep up with theme. The use of background images as for decoration and to give the looks of the member of rainbow six siege.
 
 
-### Existing Feature
 
 ## Testing
+
+## Testing
+
+Index:
+
+
+
+Games:
+
+
+
+Newletter:
+
+
+
+Registration:
+
+
+
+404:
+
+
+
+CSS:
 
 
 ## Technologies utilized
@@ -220,3 +286,13 @@ https://youtu.be/Unj2rUT_abw?si=wSDl9TiaRjlIOB0G
 
 https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/media
 
+## Achknowledge
+
+
+# Timelines creation tutorial
+
+https://youtu.be/zNccqv0g6Q4?si=3T6TJ38ymCBqBgD
+
+# How to add image to readme
+
+https://www.youtube.com/watch?v=qIaWozjDyPk
