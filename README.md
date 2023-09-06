@@ -2,15 +2,23 @@
 
 This website is for entertainment and educational purpose, starting by looking back into where Rainbow six siege first released, the development, and in-depth into the lore. By using different type of media such as image and video to entertain and educate the user about the game history, and future of development. By utilizing newsletter the user will be getting an update on the lore and the development of the game.
 
-## UX
+# UX
 
 The purpose of this site is to entertain and educate the user with Rainbow six siege development and lore, this include trailers from the previous update and the comics from the game developer Ubisoft. By utilizing Youtube video embedded on each years and seasons, it will provide the user with entertainment and help the user to understand the lore and the developement.
 
+The font I used were Bebas neue for the logo and heading, since I find it close resemblance to the original logo of rainbow six siege. As can be seen below:
+
+![Rainbow six siege logo](../screenshots/Tom_Clancy's_Rainbow_Six_Siege_Logo.png "logo of rainbow six siege")
+
+While for the font style for the paragraph using Exo 2 which is simple, but similar to the theme of rainbow six siege and easy to read. Combining with white color, allowing words to appear simple and keep-up with theme.
+
 The color scheme will be using black and white to simplfy and stick with old classic Rainbow six siege color. The header will be using the color black and white to make it easier to navigate, while the main section will be using both background pictures and the grey color to keep up with theme. The use of background images as for decoration and to give the looks of the member of rainbow six siege.
+
 
 ### Existing Feature
 
 ## Testing
+
 
 ## Technologies utilized
 
