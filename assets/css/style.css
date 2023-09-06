@@ -184,11 +184,21 @@ margin: 0 auto;
 /* about content styling */
 
 
-#about-heading {
+#about-heading-r6 {
     text-align: center;
-
 }
-#about-content {
+
+#about-heading-website {
+    text-align: center;
+}
+
+#about-r6-content {
+    font-family: "Bebas neue", sans-serif ;
+    color: #ffffff;
+    text-align: center;
+}
+
+#about-website-content {
     font-family: "Bebas neue", sans-serif ;
     color: #ffffff;
     text-align: center;
