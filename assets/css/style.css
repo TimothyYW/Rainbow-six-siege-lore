@@ -121,6 +121,10 @@ h1, h2{
     position: absolute;
 }
 
+#welcome-text {
+    color: #000000;
+}
+
 #hero-image-second {
     height: 800px;
     width: 100%;
