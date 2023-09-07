@@ -117,7 +117,6 @@ h1, h2{
     background-color: rgba(255, 255, 255, 0.7);
 
     top: 140px;
-    right: 150px;
 
     position: absolute;
 }
@@ -436,6 +435,9 @@ footer {
 
 
 @media screen and (min-width: 400px) {
+    #cover-text {
+        right: 150px;
+    }
     #about-r6 {
         padding-top: 10px;
         height: 250px;
