@@ -394,6 +394,22 @@ footer {
     text-align: center;
 }
 
+/* 404 error message style */
+
+#error {
+    background-color: #727272;
+    height: 900px;
+    text-align: center;
+}
+.page-not-found-heading {
+    font-family: "exo 2", sans-serif;
+    font-size: 60px;
+}
+
+.page-not-found {
+    font-family: "bebas neue", sans-serif;
+    font-size: 40px;
+}
 
 /* media quaries for smaller screen sizes */
 
@@ -425,3 +441,4 @@ footer {
         height: 250px;
     }
 }
+
