@@ -45,6 +45,12 @@ The newsletter allowing the user to sign-up to get an update of the games lore a
 
 Newletter
 
+## 404 
+
+The creation of 404 error page is to direct the user to that page in case the page that user looking for is not available, with some added joke for rainbow six siege player. Styling of the page is simplfied to ensure no confusion and for a shortcut to return to homepage.
+
+404 error 
+
 # UX
 
 The purpose of this site is to entertain and educate the user with Rainbow six siege development and lore, this include trailers from the previous update and the comics from the game developer Ubisoft. By utilizing Youtube video embedded on each years and seasons, it will provide the user with entertainment and help the user to understand the lore and the developement.
@@ -288,6 +294,7 @@ https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/media
 
 ## Achknowledge
 
+This website has taken inspiration from Love Running project.
 
 # Timelines creation tutorial
 
@@ -296,3 +303,9 @@ https://youtu.be/zNccqv0g6Q4?si=3T6TJ38ymCBqBgD
 # How to add image to readme
 
 https://www.youtube.com/watch?v=qIaWozjDyPk
+
+https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/
+
+# How to create 404 error page
+
+https://www.youtube.com/watch?v=vQsir0JIjPY
