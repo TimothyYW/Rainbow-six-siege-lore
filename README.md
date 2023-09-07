@@ -67,7 +67,6 @@ The color scheme will be using black and white to simplfy and stick with old cla
 
 ## Testing
 
-## Testing
 
 Index:
 
@@ -95,10 +94,14 @@ CSS:
 ## Technologies utilized
 
 HTML
+
 CSS
+
 Google Fonts
-Gitpod
+
 Github
+
+Google Chrom Lighthouse
 
 ## Bugs
 
