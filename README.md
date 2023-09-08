@@ -308,6 +308,10 @@ https://youtu.be/Unj2rUT_abw?si=wSDl9TiaRjlIOB0G
 
 https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/media
 
+### Favicon
+
+https://icons8.com/icon/iExfEgcZKka2/rainbow-six-siege
+
 ## Achknowledge
 
 This website has taken inspiration from Love Running project.
@@ -323,3 +327,7 @@ https://www.youtube.com/watch?v=vQsir0JIjPY
 ### How to speed up video load up
 
 https://stackoverflow.com/questions/1268482/is-there-a-way-to-load-embedded-youtube-videos-faster-on-my-website
+
+### How to add favicon
+
+https://www.w3schools.com/html/html_favicon.asp
