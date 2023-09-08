@@ -65,7 +65,14 @@ The color scheme will be using black and white to simplfy and stick with old cla
 
 The wireframes for the home, games, and newletter can be view below:
 
-![Home page](screenshots/wireframe-one.jpg)
+![Home page](assets/screenshots/wireframe-one.jpg)
+
+![Games page](assets/screenshots/wireframe-two.jpg)
+
+![Newsletter page](assets/screenshots/wireframe-three.jpg)
+
+The sketches are used to ensure the structure of the website, but as can be seen that games page has been simplfied to fitting all the image in the readme.md. 
+
 
 
 
