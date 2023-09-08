@@ -320,3 +320,6 @@ https://youtu.be/zNccqv0g6Q4?si=3T6TJ38ymCBqBgD
 
 https://www.youtube.com/watch?v=vQsir0JIjPY
 
+### How to speed up video load up
+
+https://stackoverflow.com/questions/1268482/is-there-a-way-to-load-embedded-youtube-videos-faster-on-my-website
