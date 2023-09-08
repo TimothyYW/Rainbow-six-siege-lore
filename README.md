@@ -63,6 +63,10 @@ While for the font style for the paragraph using Exo 2 which is simple, but simi
 
 The color scheme will be using black and white to simplfy and stick with old classic Rainbow six siege color. The header will be using the color black and white to make it easier to navigate, while the main section will be using both background pictures and the grey color to keep up with theme. The use of background images as for decoration and to give the looks of the member of rainbow six siege.
 
+The wireframes for the home, games, and newletter can be view below:
+
+![Home page](screenshots/wireframe-one.jpg)
+
 
 
 ## Testing
@@ -123,7 +127,7 @@ https://wall.alphacoders.com/by_sub_category.php?id=225751&name=Tom+Clancy%27s+R
 
  https://www.youtube.com/watch?v=KYV8lYwteEU&t=286s
 
-# Year 1
+### Year 1
 
 Season 1
 
@@ -141,7 +145,7 @@ Season 4
 
 https://youtu.be/12hNVzz4CYY
 
-# Year 2
+### Year 2
 
 Season 1
 
@@ -159,7 +163,7 @@ Season 4
 
 https://youtu.be/Ld1LL97Pry0
 
-# Year 3
+### Year 3
 
 Season 1
 
@@ -179,7 +183,7 @@ Season 4
 
 https://youtu.be/jPZbHhfvjzg
 
-# Year 4
+### Year 4
 
 Hammer & Scalpel
 
@@ -207,7 +211,7 @@ https://youtu.be/wRFQuon0Veg
 
 https://youtu.be/swl0anQp4eI
 
-# Year 5
+### Year 5
 
 Tournament of champion
 
@@ -229,7 +233,7 @@ Season 4
 
 https://youtu.be/ug5lI1VjiRg
 
-# Year 6
+### Year 6
 
 The playbook
 
@@ -251,7 +255,7 @@ Season 4
 
 https://youtu.be/-s1SsNSHKlc?si=PJ7Z38NeCG8_jDTX
 
-# Year 7
+### Year 7
 
 Sister in arms
 
@@ -277,7 +281,7 @@ Season 4
 
 https://youtu.be/cce6Wn2SQo0?si=2IH3AkCS-8gxRkPF
 
-# Year 8
+### Year 8
 
 Siege Invitational 2023
 
@@ -291,7 +295,7 @@ Season 2
 
 https://youtu.be/Unj2rUT_abw?si=wSDl9TiaRjlIOB0G
 
-# Comic link
+### Comic link
 
 https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/media
 
@@ -299,16 +303,11 @@ https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/media
 
 This website has taken inspiration from Love Running project.
 
-# Timelines creation tutorial
+### Timelines creation tutorial
 
 https://youtu.be/zNccqv0g6Q4?si=3T6TJ38ymCBqBgD
 
-# How to add image to readme
-
-https://www.youtube.com/watch?v=qIaWozjDyPk
-
-https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/
-
-# How to create 404 error page
+### How to create 404 error page
 
 https://www.youtube.com/watch?v=vQsir0JIjPY
+
