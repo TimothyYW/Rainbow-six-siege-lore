@@ -78,29 +78,31 @@ The sketches are used to ensure the structure of the website, but as can be seen
 
 ## Testing
 
+Testing of the HTML using W3C validator and CSS using Jigsaw, the results can be seen below:
 
 Index:
 
-
+![Index testing result](assets/screenshots/screenshot-index.jpg)
 
 Games:
 
-
+![Games testing result](assets/screenshots/screenshot-games.jpg)
 
 Newletter:
 
-
+![Newsletter testing result](assets/screenshots/screenshot-newsletter.jpg)
 
 Registration:
 
-
+![Registration testing result](assets/screenshots/screenshot-registration-success.jpg)
 
 404:
 
-
+![404 testing result](assets/screenshots/screenshot-404.jpg)
 
 CSS:
 
+![CSS testing result](assets/screenshots/screenshot-jigsaw-css-results.jpg)
 
 ## Technologies utilized
 
