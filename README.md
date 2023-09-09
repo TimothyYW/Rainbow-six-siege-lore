@@ -85,7 +85,7 @@ Creating a data base of operators biography
 
 Adding a drop-down menu for games page
 
-## Testing
+# Testing
 
 Testing of the HTML using W3C validator and CSS using Jigsaw, the results can be seen below:
 
@@ -119,7 +119,13 @@ Using lighthouse devtool to ensure the website level of performance, accessablli
 
 ![Lighthouse devtool result](assets/screenshots/lighthouse-result.png)
 
-## Technologies utilized
+### Wave
+
+Using wave evaluation tool to ensure that there are no color contrast, as can be seen the result below:
+
+![Wave color contrast result](assets/screenshots/screenshot-color-contrast.jpg)
+
+# Technologies utilized
 
 HTML
 
@@ -139,12 +145,24 @@ Jigsaw
 
 Wave
 
-## Bugs
+# Bugs
 
 During coding for games.html when creating the timelines, I put too many content within which causing it to be lagging, in order to fixed it, I moved all the content into eight seperate html. In the end, it is discover the reason why its lagging due to the size of the background image, as result the background image size has been reduce and all games content has been put back in page.
 
+# Deployment
 
-## Credits
+To deploy the project please follow step below:
+    
+    1. Log in to Github.
+    2. Go to setting right next to Insight.
+    3. Within setting navigate to Pages below Codespaces.
+    4. Under the Branch, change from "none" to "main".
+    5. Click "Save".
+    6. Wait for few minute.
+    7. A link will be provided.
+
+
+# Credits
 
 Hero image:
 
@@ -336,7 +354,7 @@ https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/media
 
 https://icons8.com/icon/iExfEgcZKka2/rainbow-six-siege
 
-## Achknowledge
+# Achknowledge
 
 This website has taken inspiration from Love Running project.
 
