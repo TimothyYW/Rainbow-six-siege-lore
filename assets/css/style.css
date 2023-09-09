@@ -348,6 +348,15 @@ footer {
     margin: 0 auto;
 }
 
+#newsletter-paragraph {
+    color: #f7f7f7;
+}
+
+#sign-up-heading {
+    background-color: #3a3a3a;
+    border-radius: 9px;
+}
+
 .form-section {
     text-align: center;
     color: #ffffff;
