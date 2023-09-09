@@ -77,8 +77,13 @@ The wireframes for the home, games, and newletter can be view below:
 
 The sketches are used to ensure the structure of the website, but as can be seen that games page has been simplfied to fitting all the image in the readme.md. 
 
+# Future update and plan
 
+For the update will be continue update the content as year and season progressing
 
+Creating a data base of operators biography
+
+Adding a drop-down menu for games page
 
 ## Testing
 
@@ -108,6 +113,12 @@ CSS:
 
 ![CSS testing result](assets/screenshots/screenshot-jigsaw-css-results.jpg)
 
+### Lighthouse devtool:
+
+Using lighthouse devtool to ensure the website level of performance, accessabllity, best practice, and SEO. The score of the website can be seen below:
+
+![Lighthouse devtool result](assets/screenshots/lighthouse-result.png)
+
 ## Technologies utilized
 
 HTML
@@ -130,7 +141,8 @@ Wave
 
 ## Bugs
 
-During coding for games.html when creating the timelines, I put too many content within which causing it to be lagging, in order to fixed it, I moved all the content into eight seperate html.
+During coding for games.html when creating the timelines, I put too many content within which causing it to be lagging, in order to fixed it, I moved all the content into eight seperate html. In the end, it is discover the reason why its lagging due to the size of the background image, as result the background image size has been reduce and all games content has been put back in page.
+
 
 ## Credits
 
