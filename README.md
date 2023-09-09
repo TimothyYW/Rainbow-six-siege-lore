@@ -11,49 +11,49 @@ This website is for entertainment and educational purpose, starting by looking b
 ## Navigation Bar (Index/Homepage)
 Within homepage, featured three navigation bar and logo full responsive ,and It is identical with other page to ensure easy navigation for the user.
     
-Index html screenshot
+![Navigation screenshot](assets/screenshots/screenshot-navigation.jpg)
 
 ## Hero Image First
 
 Once load the user will be greeted with welcome message and one of the background showing some of the operators of rainbow six siege, this hero image was one of the games background picture from the past version of the games,and with this image hopefully may giving the user who played the game before the feeling of nostalgia. 
 
-Hero image first
+![Hero image first](assets/screenshots/screenshot-hero-first.jpg)
 
 ##  Hero Image Second
 
 Below the first hero image will be waiting for the user a shortcut button to go to the games section to learn of the lore of rainbow six siege with background picture, showing rainbow operators going toe to toe to hype up the user to learn about rainbow.
 
-Hero image second
+![Hero image second](assets/screenshots/screenshot-hero-second.jpg)
 
 ## About 
 
 about section will be explaining what is rainbow six siege including a quick link again, in case if the user want to learn about the game first before going to the lore of the game, while below will be explaining the purpose of the website.
 
-About section 
+![About section](assets/screenshots/screenshot-about.jpg) 
 
 ## Footer
 
 A quick link for the social medias to allow the user to access the social medias, and it will open a new tab instead of taking away the page.
 
-footer picture
+![Footer section](assets/screenshots/screenshot-footer.jpg)
 
 ## Games
 
 Within the games section will be showing the lore starting from the reactivation of rainbow to the current seasons. With the Youtube link will be showing the highlight of the seaoson and what is the current stand within the lore. User able to click the video to play the video and it will not play automaticly when opening the page.
 
-games 
+![Games page](assets/screenshots/screenshot-games-feature.jpg)
 
 ## Newsletter
 
 The newsletter allowing the user to sign-up to get an update of the games lore and the feature, with message encouraging that siege continue developing and keep up with the games development. The user required to provide their first and last name with an Email, afterwards there will be message confirmation that their information has been recorded.
 
-Newletter
+![Newletter page](assets/screenshots/screenshot-newsletter-feature.jpg)
 
 ## 404 
 
 The creation of 404 error page is to direct the user to that page in case the page that user looking for is not available, with some added joke for rainbow six siege player. Styling of the page is simplfied to ensure no confusion and for a shortcut to return to homepage.
 
-404 error 
+![404 error page](assets/screenshots/screenshot-404-result.jpg)
 
 # UX
 
