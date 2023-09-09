@@ -125,6 +125,17 @@ Using wave evaluation tool to ensure that there are no color contrast, as can be
 
 ![Wave color contrast result](assets/screenshots/screenshot-color-contrast.jpg)
 
+### Other testing
+
+**Step (Method)**|**Expected**|**Results**
+:-----:|:-----:|:-----:
+Using devtools and shrink and extend site|Site responsive to all type of device|Success
+On games page the video does not play and only play when click|Youtube does not play automaticly|Success
+Manually click on buttons and logo within the website|All navigation menus direct user to its destination|Success
+Use personal email to see if the correct message displayed|message appear in the screen to confirm subscription|Success
+Manually click on the links|all links went to the correct social media|Success
+**Create link from github and use it**|**the home page appeared first**|**success**
+
 # Technologies utilized
 
 HTML
@@ -160,7 +171,6 @@ To deploy the project please follow step below:
     5. Click "Save".
     6. Wait for few minute.
     7. A link will be provided.
-
 
 # Credits
 
