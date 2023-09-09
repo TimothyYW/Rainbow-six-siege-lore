@@ -61,7 +61,7 @@ The purpose of this site is to entertain and educate the user with Rainbow six s
 
 The font I used were Bebas neue for the logo and heading, since I find it close resemblance to the original logo of rainbow six siege. As can be seen below:
 
-
+![Rainbow Six Siege logo](assets/images/Tom_Clancy's_Rainbow_Six_Siege_Logo.jpg)
 
 While for the font style for the paragraph using Exo 2 which is simple, but similar to the theme of rainbow six siege and easy to read. Combining with white color, allowing words to appear simple and keep-up with theme.
 
