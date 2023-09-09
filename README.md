@@ -2,7 +2,9 @@
 
 This website is for entertainment and educational purpose, starting by looking back into where Rainbow six siege first released, the development, and in-depth into the lore. By using different type of media such as image and video to entertain and educate the user about the game history, and future of development. By utilizing newsletter the user will be getting an update on the lore and the development of the game.
 
+![Screenshot image display testing result](assets/screenshots/screenshot-website-display.jpg)
 
+[Link to deployed site](https://timothyyw.github.io/Rainbow-six-siege-lore/)
 
 # Feature
 
@@ -123,6 +125,8 @@ Balsemig
 W3C
 
 Jigsaw
+
+Wave
 
 ## Bugs
 
