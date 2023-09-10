@@ -368,6 +368,8 @@ https://icons8.com/icon/iExfEgcZKka2/rainbow-six-siege
 
 This website has taken inspiration from Love Running project.
 
+Thank you to my mentor Daisy McGirr for her guidance.
+
 ### Timelines creation tutorial
 
 https://youtu.be/zNccqv0g6Q4?si=3T6TJ38ymCBqBgD
