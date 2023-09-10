@@ -75,7 +75,7 @@ The wireframes for the home, games, and newletter can be view below:
 
 ![Newsletter page](assets/screenshots/wireframe-three.jpg)
 
-The sketches are used to ensure the structure of the website, but as can be seen that games page has been simplfied to fitting all the image in the readme.md. 
+The sketches are used to ensure the structure of the website, but as can be seen that games page has been simplfied to fitting all the image in the read me.md. 
 
 # Future update and plan
 
@@ -138,23 +138,23 @@ Manually click on the links|all links went to the correct social media|Success
 
 # Technologies utilized
 
-HTML
+HTML is used for write the code and to built the website.
 
-CSS
+CSS is used style the code.
 
-Google Fonts
+Google Fonts is providing the style for the letter that is written and displayed on the website.
 
-Github
+Github is where the code will be stored.
 
-Google Chrome Lighthouse
+Google Chrome Lighthouse is used to check the website performance and accessibility.
 
-Balsemig
+Balsemig is used to make the sketch wireframes for the website strucutres.
 
-W3C
+W3C used to validated and ensured there are no errors on HTML code.
 
-Jigsaw
+Jigsaw is to ensure that there are no error on the CSS code.
 
-Wave
+Wave is to check if there is color contrast.
 
 # Bugs
 
