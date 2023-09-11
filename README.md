@@ -1,6 +1,6 @@
 # Rainbow six siege lore
 
-This website is for entertainment and educational purpose, starting by looking back into where Rainbow six siege first released, the development, and in-depth into the lore. By using different type of media such as image and video to entertain and educate the user about the game history, and future of development. By utilizing newsletter the user will be getting an update on the lore and the development of the game.
+This website is for entertainment and educational purposes, starting by looking back into where Rainbow six siege was first released, the development, and in-depth into the lore. By using different types of media such as image and video to entertain and educate the user about the game history, and future of development. By utilizing the newsletter the user will be getting an update on the lore and the development of the game.
 
 ![Screenshot display testing result](assets/screenshots/screenshot-website-display.jpg)
 
@@ -9,65 +9,65 @@ This website is for entertainment and educational purpose, starting by looking b
 # Feature
 
 ## Navigation Bar (Index/Homepage)
-Within homepage, featured three navigation bar and logo full responsive ,and It is identical with other page to ensure easy navigation for the user.
+Within the homepage, are featured three navigation bars and a fully responsive logo, and it is identical with other pages to ensure easy navigation for the user.
     
 ![Navigation screenshot](assets/screenshots/screenshot-navigation.jpg)
 
 ## Hero Image First
 
-Once load the user will be greeted with welcome message and one of the background showing some of the operators of rainbow six siege, this hero image was one of the games background picture from the past version of the games,and with this image hopefully may giving the user who played the game before the feeling of nostalgia. 
+Once loaded the user will be greeted at first with a welcome message and one of the backgrounds showing some of the operators of rainbow six siege. This hero image was one of the games background pictures from the past version of the games,and this image will hopefully give the user a feeling nostalgia.
 
 ![Hero image first](assets/screenshots/screenshot-hero-first.jpg)
 
 ##  Hero Image Second
 
-Below the first hero image will be waiting for the user a shortcut button to go to the games section to learn of the lore of rainbow six siege with background picture, showing rainbow operators going toe to toe to hype up the user to learn about rainbow.
+Below the first hero image, there is a second hero image with a shortcut button to go to the games section to learn of the lore of rainbow six siege with another background picture, while this hero image showing rainbow operators going toe to toe to hype up the user to learn about rainbow.
 
 ![Hero image second](assets/screenshots/screenshot-hero-second.jpg)
 
 ## About 
 
-about section will be explaining what is rainbow six siege including a quick link again, in case if the user want to learn about the game first before going to the lore of the game, while below will be explaining the purpose of the website.
+The about section explains what is rainbow six siege including a quick link again, in case the user wants to learn about the game first before going to the lore of the game. The purpose of the websites is explained below.
 
 ![About section](assets/screenshots/screenshot-about.jpg) 
 
 ## Footer
 
-A quick link for the social medias to allow the user to access the social medias, and it will open a new tab instead of taking away the page.
+A quick link for the user to access social media, it will open new tab instead of taking away the page.
 
 ![Footer section](assets/screenshots/screenshot-footer.jpg)
 
 ## Games
 
-Within the games section will be showing the lore starting from the reactivation of rainbow to the current seasons. With the Youtube link will be showing the highlight of the seaoson and what is the current stand within the lore. User able to click the video to play the video and it will not play automaticly when opening the page.
+The games section shows the starting of from the reactivation of rainbow to the current seasons. With the Youtube link will be showing the highlight of the seasons and what is the current stand within the lore. Users are able to click the video to play the video and it will not play automaticly when opening the page.
 
 ![Games page](assets/screenshots/screenshot-games-feature.jpg)
 
 ## Newsletter
 
-The newsletter allowing the user to sign-up to get an update of the games lore and the feature, with message encouraging that siege continue developing and keep up with the games development. The user required to provide their first and last name with an Email, afterwards there will be message confirmation that their information has been recorded.
+The newsletter allows the user to sign-up to get an update of the games lore and the feature, with an ecouranging message to keep-up with the games development. The user is required to provide their first and last name with an Email, afterwards there will be message confirmation that their information has been recorded.
 
 ![Newletter page](assets/screenshots/screenshot-newsletter-feature.jpg)
 
 ## 404 
 
-The creation of 404 error page is to direct the user to that page in case the page that user looking for is not available, with some added joke for rainbow six siege player. Styling of the page is simplfied to ensure no confusion and for a shortcut to return to homepage.
+The 404 error page is to direct the user to the page that is not available, with some added joke for rainbow six siege player. Styling of the page is simplfied to ensure no confusion and for a shortcut to return to the homepage.
 
 ![404 error page](assets/screenshots/screenshot-404-result.jpg)
 
 # UX
 
-The purpose of this site is to entertain and educate the user with Rainbow six siege development and lore, this include trailers from the previous update and the comics from the game developer Ubisoft. By utilizing Youtube video embedded on each years and seasons, it will provide the user with entertainment and help the user to understand the lore and the developement.
+The purpose of this site is to entertain and to educate the user with Rainbow six siege development and lore, this includes trailers from the previous update and the comics from the game developer Ubisoft. By utilizing Youtube videos embedded on each years and seasons, it will provide the user with entertainment and help the user to understand the lore and the developement.
 
-The font I used were Bebas neue for the logo and heading, since I find it close resemblance to the original logo of rainbow six siege. As can be seen below:
+The font I used is Bebas neue for the logo and heading, since I found it closely resembled the original logo of rainbow six siege. As can be seen below:
 
 ![Rainbow Six Siege logo](assets/images/Tom_Clancy's_Rainbow_Six_Siege_Logo.jpg)
 
-While for the font style for the paragraph using Exo 2 which is simple, but similar to the theme of rainbow six siege and easy to read. Combining with white color, allowing words to appear simple and keep-up with theme.
+For the paragraph font style Exo 2 is used, but it is similarly to the theme of rainbow six siege and easy to read, combining with white color, allowing words to appear simple and keep-up with the theme.
 
 The color scheme will be using black and white to simplfy and stick with old classic Rainbow six siege color. The header will be using the color black and white to make it easier to navigate, while the main section will be using both background pictures and the grey color to keep up with theme. The use of background images as for decoration and to give the looks of the member of rainbow six siege.
 
-The wireframes for the home, games, and newletter can be view below:
+The wireframes for the home, games, and newletter can be viewed below:
 
 ![Home page](assets/screenshots/wireframe-one.jpg)
 
@@ -75,15 +75,15 @@ The wireframes for the home, games, and newletter can be view below:
 
 ![Newsletter page](assets/screenshots/wireframe-three.jpg)
 
-The sketches are used to ensure the structure of the website, but as can be seen that games page has been simplfied to fitting all the image in the read me.md. 
+The sketches are used to ensure the structure of the website, but as can be seen the games page has been simplfied to fi all the images in the read me.md. 
 
 # Future update and plan
 
-For the update will be continue update the content as year and season progressing
+Update will be continue as year progresses.
 
-Creating a data base of operators biography
+Creating a page that is dedicated operators biography.
 
-Adding a drop-down menu for games page
+Adding a drop-down menu for the games page.
 
 # Testing
 
@@ -115,13 +115,13 @@ CSS:
 
 ### Lighthouse devtool:
 
-Using lighthouse devtool to ensure the website level of performance, accessabllity, best practice, and SEO. The score of the website can be seen below:
+The lighthouse devtool ensure the website`s level of performance, accessabllity, best practice, and SEO. The score of the website can be seen below:
 
 ![Lighthouse devtool result](assets/screenshots/lighthouse-result.png)
 
 ### Wave
 
-Using wave evaluation tool to ensure that there are no color contrast, as can be seen the result below:
+The wave evaluation tool to ensure that there are no color contrasts, as can be seen in the result below:
 
 ![Wave color contrast result](assets/screenshots/screenshot-color-contrast.jpg)
 
@@ -158,7 +158,7 @@ Wave is to check if there is color contrast.
 
 # Bugs
 
-During coding for games.html when creating the timelines, I put too many content within which causing it to be lagging, in order to fixed it, I moved all the content into eight seperate html. In the end, it is discover the reason why its lagging due to the size of the background image, as result the background image size has been reduce and all games content has been put back in page.
+During coding for games.html when creating the timelines, I put too much content within which caused it to be lag. to fixed it, I moved all the content into eight seperate html. In the end, it is discovered the reason the reason for the lag was the quality of the background image and size of the background image, as a result the background image size has been reduce and all in games content has been put back on the page.
 
 # Deployment
 
