@@ -287,6 +287,11 @@ footer {
     text-align: center;
 }
 
+.timelines ol {
+    list-style: none;
+    padding: 0;
+}
+
 .timelines ol li {
     padding: 20px;
     background-color: #3a3a3a;
