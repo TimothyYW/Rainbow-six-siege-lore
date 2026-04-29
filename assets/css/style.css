@@ -174,9 +174,9 @@ margin: 0 auto;
 }
 
 .btn a,
-a .btn {
+#explore a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: inherit;
 }
 
 .btn:hover {
