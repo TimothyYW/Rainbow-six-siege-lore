@@ -1,6 +1,6 @@
-# Rainbow six siege lore
+# Rainbow Six Siege Lore
 
-This website is for entertainment and educational purposes, starting by looking back into where Rainbow six siege was first released, the development, and in-depth into the lore. By using different types of media such as image and video to entertain and educate the user about the game history, and future of development. By utilizing the newsletter the user will be getting an update on the lore and the development of the game.
+This website is for entertainment and educational purposes, starting by looking back at where Rainbow Six Siege was first released, its development, and an in-depth look into the lore. By using different types of media such as images and video to entertain and educate the user about the game's history and future development. By utilizing the newsletter, the user will receive updates on the lore and the development of the game.
 
 ![Screenshot display testing result](assets/screenshots/screenshot-website-display.jpg)
 
@@ -15,13 +15,13 @@ Within the homepage, are featured three navigation bars and a fully responsive l
 
 ## Hero Image First
 
-Once loaded the user will be greeted at first with a welcome message and one of the backgrounds showing some of the operators of rainbow six siege. This hero image was one of the games background pictures from the past version of the games,and this image will hopefully give the user a feeling nostalgia.
+Once loaded, the user will be greeted with a welcome message and a background showing some of the operators of Rainbow Six Siege. This hero image was one of the game's background pictures from a past version of the game, and will hopefully give the user a feeling of nostalgia.
 
 ![Hero image first](assets/screenshots/screenshot-hero-first.jpg)
 
 ##  Hero Image Second
 
-Below the first hero image, there is a second hero image with a shortcut button to go to the games section to learn of the lore of rainbow six siege with another background picture, while this hero image showing rainbow operators going toe to toe to hype up the user to learn about rainbow.
+Below the first hero image, there is a second hero image with a shortcut button to go to the games section to learn about the lore of Rainbow Six Siege. This hero image shows rainbow operators going head-to-head to hype up the user to learn about rainbow.
 
 ![Hero image second](assets/screenshots/screenshot-hero-second.jpg)
 
@@ -39,35 +39,35 @@ A quick link for the user to access social media, it will open new tab instead o
 
 ## Games
 
-The games section shows the starting of from the reactivation of rainbow to the current seasons. With the Youtube link will be showing the highlight of the seasons and what is the current stand within the lore. Users are able to click the video to play the video and it will not play automaticly when opening the page.
+The games section shows everything starting from the reactivation of rainbow through to the current seasons. The embedded YouTube videos highlight each season and the current state of the lore. Users are able to click the video to play it and it will not play automatically when opening the page.
 
 ![Games page](assets/screenshots/screenshot-games-feature.jpg)
 
 ## Newsletter
 
-The newsletter allows the user to sign-up to get an update of the games lore and the feature, with an ecouranging message to keep-up with the games development. The user is required to provide their first and last name with an Email, afterwards there will be message confirmation that their information has been recorded.
+The newsletter allows the user to sign up to receive updates on the game's lore and features, with an encouraging message to keep up with the game's development. The user is required to provide their first and last name along with an email address, after which a confirmation message will appear to confirm their subscription.
 
 ![Newletter page](assets/screenshots/screenshot-newsletter-feature.jpg)
 
 ## 404 
 
-The 404 error page is to direct the user to the page that is not available, with some added joke for rainbow six siege player. Styling of the page is simplfied to ensure no confusion and for a shortcut to return to the homepage.
+The 404 error page is shown when the user navigates to a page that is not available, with an added joke for Rainbow Six Siege players. The styling of the page is simplified to avoid confusion and includes a shortcut to return to the homepage.
 
 ![404 error page](assets/screenshots/screenshot-404-result.jpg)
 
 # UX
 
-The purpose of this site is to entertain and to educate the user with Rainbow six siege development and lore, this includes trailers from the previous update and the comics from the game developer Ubisoft. By utilizing Youtube videos embedded on each years and seasons, it will provide the user with entertainment and help the user to understand the lore and the developement.
+The purpose of this site is to entertain and educate the user about Rainbow Six Siege's development and lore, including trailers from previous updates and comics from the game developer Ubisoft. By utilizing YouTube videos embedded for each year and season, it provides the user with entertainment and helps them understand the lore and the development.
 
-The font I used is Bebas neue for the logo and heading, since I found it closely resembled the original logo of rainbow six siege. As can be seen below:
+The font used is Bebas Neue for the logo and headings, since it closely resembles the original logo of Rainbow Six Siege. As can be seen below:
 
 ![Rainbow Six Siege logo](assets/images/Tom_Clancy's_Rainbow_Six_Siege_Logo.jpg)
 
-For the paragraph font style Exo 2 is used, but it is similarly to the theme of rainbow six siege and easy to read, combining with white color, allowing words to appear simple and keep-up with the theme.
+For paragraph text, Exo 2 is used, as it is similar to the theme of Rainbow Six Siege and easy to read. Combined with white text on dark backgrounds, it keeps the words legible while staying true to the theme.
 
-The color scheme will be using black and white to simplfy and stick with old classic Rainbow six siege color. The header will be using the color black and white to make it easier to navigate, while the main section will be using both background pictures and the grey color to keep up with theme. The use of background images as for decoration and to give the looks of the member of rainbow six siege.
+The color scheme uses black and white to keep things simple and in line with the classic Rainbow Six Siege aesthetic. The header uses black and white to make navigation easier, while the main section uses both background images and grey tones to stay on theme. The background images serve as decoration and evoke the look and feel of Rainbow Six Siege.
 
-The wireframes for the home, games, and newletter can be viewed below:
+The wireframes for the home, games, and newsletter can be viewed below:
 
 ![Home page](assets/screenshots/wireframe-one.jpg)
 
@@ -75,7 +75,7 @@ The wireframes for the home, games, and newletter can be viewed below:
 
 ![Newsletter page](assets/screenshots/wireframe-three.jpg)
 
-The sketches are used to ensure the structure of the website, but as can be seen the games page has been simplfied to fi all the images in the read me.md. 
+The sketches are used to plan the structure of the website, but as can be seen the games page has been simplified to fit all the images in the README.md.
 
 # Future update and plan
 
@@ -97,7 +97,7 @@ Games:
 
 ![Games testing result](assets/screenshots/screenshot-games.jpg)
 
-Newletter:
+Newsletter:
 
 ![Newsletter testing result](assets/screenshots/screenshot-newsletter.jpg)
 
@@ -115,13 +115,13 @@ CSS:
 
 ### Lighthouse devtool:
 
-The lighthouse devtool ensure the website`s level of performance, accessabllity, best practice, and SEO. The score of the website can be seen below:
+The Lighthouse devtool measures the website's level of performance, accessibility, best practices, and SEO. The scores can be seen below:
 
 ![Lighthouse devtool result](assets/screenshots/lighthouse-result.png)
 
 ### Wave
 
-The wave evaluation tool to ensure that there are no color contrasts, as can be seen in the result below:
+The Wave evaluation tool is used to check for color contrast issues, as can be seen in the result below:
 
 ![Wave color contrast result](assets/screenshots/screenshot-color-contrast.jpg)
 
@@ -138,9 +138,9 @@ Manually click on the links|all links went to the correct social media|Success
 
 # Technologies utilized
 
-HTML is used for write the code and to built the website.
+HTML is used to write the code and build the website.
 
-CSS is used style the code.
+CSS is used to style the code.
 
 Google Fonts is providing the style for the letter that is written and displayed on the website.
 
@@ -148,9 +148,9 @@ Github is where the code will be stored.
 
 Google Chrome Lighthouse is used to check the website performance and accessibility.
 
-Balsemig is used to make the sketch wireframes for the website strucutres.
+Balsamiq is used to create the wireframe sketches for the website structure.
 
-W3C used to validated and ensured there are no errors on HTML code.
+W3C used to validate and ensure there are no errors in the HTML code.
 
 Jigsaw is to ensure that there are no error on the CSS code.
 
@@ -158,7 +158,7 @@ Wave is to check if there is color contrast.
 
 # Bugs
 
-During coding for games.html when creating the timelines, I put too much content within which caused it to be lag. to fixed it, I moved all the content into eight seperate html. In the end, it is discovered the reason the reason for the lag was the quality of the background image and size of the background image, as a result the background image size has been reduce and all in games content has been put back on the page.
+During coding for games.html, when creating the timelines, too much content was placed on one page which caused lag. To fix it, the content was moved into eight separate HTML files. In the end, it was discovered that the reason for the lag was the quality and size of the background image, so the background image size was reduced and all the games content was put back on a single page.
 
 # Deployment
 
@@ -383,7 +383,7 @@ https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/media
 
 https://icons8.com/icon/iExfEgcZKka2/rainbow-six-siege
 
-# Achknowledge
+# Acknowledgements
 
 This website has taken inspiration from Love Running project.
 
